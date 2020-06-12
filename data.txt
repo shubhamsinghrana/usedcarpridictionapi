@@ -1,0 +1,105 @@
+Brio S MT
+City 1.5 S MT
+Eon Era +
+Grand i10 1.2 Kappa VTVT Sportz
+Suzuki A Star VXI
+Suzuki Alto 800 LXI
+Suzuki Alto K10 LXI
+Suzuki Alto K10 VXI
+Suzuki Alto LX
+Suzuki Alto Std
+Suzuki Celerio VXi
+Suzuki Ritz Vdi
+Suzuki Ritz Vxi
+Suzuki Swift DZire [2011-2015] VDI
+Suzuki Swift DZire [2011-2015] VXI
+Suzuki Swift LDi
+Suzuki Swift VDi
+Suzuki Swift VXi
+Vento Highline
+alto[800 LXI
+alto[LX
+alto[LXI
+alto[STD
+alto[k10 LXI
+alto[k10 VXI
+celerio[VXI
+eeco[AC ( 5 SEATER )
+i10 (2007-2010) Era
+i10 (2007-2010) Magna
+i10 (2007-2010) Magna 1.2 Kappa2
+i10 (2007-2010) Sportz 1.2 Kappa2
+maruti[800 STD
+omni[5 SEATER
+omni[8 SEATER
+ritz[LDI
+ritz[VDI
+ritz[VXI
+swift[LDI
+swift[VDI
+swift[VXI
+swift[dzire VDI
+swift[dzire VXI
+wagon[r LXI
+wagon[r VXI
+zen[estilo LXI
+zen[estilo VXI
+
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+
+
+CNG
+Diesel
+LPG
+Petrol
+
+0
+1
+2
+3
